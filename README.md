@@ -7,8 +7,6 @@
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Questions Answered
 
