@@ -10,10 +10,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Description
-
-Briefly describe the purpose and goals of your project here.
-
 ## Questions Answered
 
 This project aims to answer the following questions:
@@ -35,6 +31,7 @@ The project is structured as follows:
   - `removed_stopwords.csv`: Speech data with stopwords removed.
   - `sampled_df.csv`: Sampled speech data for sentiment analysis.
   - `frequency_df.csv`: Frequency of most used words in speech data.
+  - `electoral_data.csv`: Electoral data coming from webscrapping
 
 ## Requirements
 
@@ -54,16 +51,16 @@ You can install the required packages using the following command:
 
 pip install pandas seaborn matplotlib tqdm nltk selenium
 
-
 Additionally, you need to download the NLTK stopwords and punkt tokenizer resources. In a Python environment, run the following commands:
 
 ```python
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
-```python
+```
 
-## Usage
+## Usage
+
 Clone this repository to your local machine.
 Run the Jupyter notebooks in the analysis folder:
 main.ipynb: Analysis code for answering the questions.
