@@ -63,7 +63,7 @@ Run the Jupyter notebooks in the analysis folder:
 - `main.ipynb`: Analysis code for answering the questions.
 - `helper.ipynb`: Web scraping helper code (if needed). For Question 3, this workbook needs to be run to collect electoral data.
 
-Make sure you have the necessary CSV files in the project directory.
+Make sure you have the necessary CSV files in the project directory if you want to save time. To obtain the pre constructed csv files, please download them [here](https://drive.google.com/file/d/1pbFWL2ql1YrJec27L-OgveYHDO4xz77v/view?usp=sharing) .
 
 Modify the paths in the code to match your directory structure if needed.
 
