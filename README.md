@@ -26,7 +26,6 @@ The project is structured as follows:
   - `main.ipynb`: Main Jupyter notebook containing the analysis code.
   - `helper.ipynb`: Helper Jupyter notebook for web scraping.
   - `speeches` folder: Contains individual CSV files for each year's speeches.
-- Data Files:
   - `cleaned_df_nlp.csv`: Preprocessed speech data with cleaned text for NLP.
   - `removed_stopwords.csv`: Speech data with stopwords removed.
   - `sampled_df.csv`: Sampled speech data for sentiment analysis.
